@@ -1,5 +1,7 @@
 package com.example.torsh.myfragment1;
 
+/*Changing between fragments dynamically by FragmentManager*/
+
 import android.app.Fragment;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
